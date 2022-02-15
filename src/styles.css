@@ -1,0 +1,34 @@
+.first{
+    display:block;
+    margin:0px,auto,auto,0px ;
+    width:700 px;
+    height:450 px;
+    background-color:darkgray;
+    border:darkgray solid 2px;
+    border-radius:15px;
+  
+  }
+  
+  .second{
+    display:block;
+    margin:30 px,auto,auto,0px;
+    background-color:whitesmoke;
+    width:300px;
+    height:360px;
+    border-radius:15px;
+  
+  }
+  .third{
+    margin:25px;
+  }
+  img{
+    border-radius:7px;
+    width:300px;
+    height:140px;
+  
+  }
+  .third a{
+    text-decoration:none;
+    color:blue;
+    padding-left:50px;
+  }
